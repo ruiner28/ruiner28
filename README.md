@@ -5,6 +5,7 @@
 - 👨‍💻 All of my projects are available at [https://gauravpawar.com](https://gauravpawar.com)
 - 💬 Ask me about **Backend, Cloud, System Design**
 - 📫 How to reach me **gaurav46444@gmail.com**
+- 👀 Seeking Frontend and Backend roles as SDE/SWE.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +37,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+</p>
+<br/>
+<p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flask_logo.svg/200px-Flask_logo.svg.png" alt="flask" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -51,6 +55,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+</p>
+<br/>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -66,6 +73,9 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+</p>
+<br/>
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -81,6 +91,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+</p>
+<br/>
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -89,5 +102,8 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" alt="spring boot" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
